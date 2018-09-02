@@ -1,0 +1,7 @@
+C:\Users\FranklinA\source\repos\Ass3_Q3_RecursionSteps\Ass3_Q3_RecursionSteps\bin\Debug\Ass3_Q3_RecursionSteps.exe.config
+C:\Users\FranklinA\source\repos\Ass3_Q3_RecursionSteps\Ass3_Q3_RecursionSteps\bin\Debug\Ass3_Q3_RecursionSteps.exe
+C:\Users\FranklinA\source\repos\Ass3_Q3_RecursionSteps\Ass3_Q3_RecursionSteps\bin\Debug\Ass3_Q3_RecursionSteps.pdb
+C:\Users\FranklinA\source\repos\Ass3_Q3_RecursionSteps\Ass3_Q3_RecursionSteps\obj\Debug\Ass3_Q3_RecursionSteps.csprojAssemblyReference.cache
+C:\Users\FranklinA\source\repos\Ass3_Q3_RecursionSteps\Ass3_Q3_RecursionSteps\obj\Debug\Ass3_Q3_RecursionSteps.csproj.CoreCompileInputs.cache
+C:\Users\FranklinA\source\repos\Ass3_Q3_RecursionSteps\Ass3_Q3_RecursionSteps\obj\Debug\Ass3_Q3_RecursionSteps.exe
+C:\Users\FranklinA\source\repos\Ass3_Q3_RecursionSteps\Ass3_Q3_RecursionSteps\obj\Debug\Ass3_Q3_RecursionSteps.pdb
